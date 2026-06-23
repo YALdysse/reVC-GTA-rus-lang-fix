@@ -16,10 +16,10 @@
 
 Просто скопируйте файл `russian.gxt` в каталог с игрой `./text` с заменой исходного файла. Вот и все! Наслаждайтесь!
 
-## Высококачественный шрифт
+### Высококачественный шрифт
 
 Рекомендуется установить высококачественный шрифт для русской локализации. Он максимально похож на оригинал.
-Скопируйте файл `font_r.txd` из каталога `./assets/hq_rus_font` в каталог с игрой `./models/`, заменив существующий файл. Вот и всё.
+Скопируйте файл `fonts_r.txd` из каталога `./assets/hq_rus_font` в каталог с игрой `./models/`, заменив существующий файл. Вот и всё.
 
 ___
 
@@ -38,3 +38,8 @@ Example command for compiling text:
 ## Installation
 
 Simply copy the `russian.gxt` file to the game directory `./text`, replacing the original file. That's it! Enjoy!
+
+### High-Quality Font
+
+We recommend installing a high-quality font for the Russian localization. It closely resembles the original.
+Copy the `fonts_r.txd` file from the `./assets/hq_rus_font` directory to the game's `./models/` directory, replacing the existing file. That's it.
