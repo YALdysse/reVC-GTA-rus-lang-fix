@@ -14436,7 +14436,7 @@ NINTENDO SWITCH CONTROLLER
 Автосохранение отсутствует
 
 [FED_BDL]
-Без границ
+Без рамок
 
 { end of file }
 [DUMMY]
